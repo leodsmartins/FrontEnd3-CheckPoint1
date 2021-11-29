@@ -1,0 +1,30 @@
+#project-container {
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    flex-flow: row wrap;
+    width: 100vw;
+    background-color:rgb(33,37,41);
+}
+
+#center {
+    display: flex;  
+    justify-content:center;
+    align-items: center;
+    flex-flow: row wrap;
+    width: 100%;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    color: whitesmoke;
+    
+
+    #title {        
+            color: whitesmoke;
+            font-weight: bold;
+            font-size: 3rem;
+        }   
+
+
+
+}
